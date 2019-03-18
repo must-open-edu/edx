@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 
 #
 # Script for installing Ansible and the edX configuration repostory
