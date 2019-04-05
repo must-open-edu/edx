@@ -1,2 +1,7 @@
-# edx
-edx localization
+# MUST Open Education Center - EDX Localization
+
+## Directories
+* install
+* config
+* manuals
+
